@@ -1,6 +1,3 @@
-Here’s a `README.md` file for your repository:  
-
----
 
 # Mahindra Test Track Monitoring System  
 
@@ -83,7 +80,3 @@ Contributions are welcome! Please follow the standard fork-and-pull workflow.
 ## License  
 
 This project is licensed under the MIT License.  
-
----
-
-Let me know if you need any modifications!
